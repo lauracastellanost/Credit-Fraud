@@ -10,7 +10,7 @@
 - Correlation Matrix
 - Create train & test datasets
 
-🚀 eda-visualization
+# 🚀 eda-visualization
 - Is_fraud
 - Gender
 - Category
